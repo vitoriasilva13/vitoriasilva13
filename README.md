@@ -1,6 +1,6 @@
 ### Hello there fellow Devs :v:
 
-My name is Vitória and I'm a Junior Developer. I've been working in constant improvement of skills and slowly creating my personal portifolio. Here are some facts about me:
+My name is Vitória and I'm a Junior Developer. I've been working in constant improvement of skills and slowly creating my personal portfolio. Here are some facts about me:
 - :mortar_board: Computer Tecnitian
 - :computer: Currently working as a Web Developer
 - 🔭 Software Engineering student at IFG

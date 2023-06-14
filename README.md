@@ -4,7 +4,6 @@ My name is Vitória and I'm a Junior Developer. I've been working in constant im
 - :mortar_board: Computer Tecnitian
 - :computer: Currently working as a Web Developer
 - 🔭 Software Engineering student at IFG
-- 📫 Contact me: silva.lopes.vitoria@gmail.com
 
 <hr>
 <div>

@@ -20,11 +20,5 @@ My name is Vitória and I'm a Junior Developer. I've been working in constant im
 </div>
 <hr>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriasilva13&locale=pt-BR" alt="vitoriasilva13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriasilva13&show_icons=true&locale=pt-BR" alt="vitoriasilva13" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriasilva13&show_icons=true&locale=pt-BR&layout=compact" alt="vitoriasilva13" /></p>
-
-<hr>
-
 
 ### :sparkles: Be welcome to my profile, I really hope you like my projects. :sparkles:

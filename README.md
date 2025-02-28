@@ -21,4 +21,4 @@ My name is Vitória and I'm a Junior Developer. I've been working in constant im
 <hr>
 
 
-### :sparkles: Be welcome to my profile, I really hope you like my projects. :sparkles:
+### :sparkles: Be welcomed to my profile, I really hope you like my projects. :sparkles:
